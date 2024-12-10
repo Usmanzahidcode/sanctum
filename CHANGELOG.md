@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.5...4.x)
+## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.6...4.x)
+
+## [v4.0.6](https://github.com/laravel/sanctum/compare/v4.0.5...v4.0.6) - 2024-11-26
+
+* Add leading slash to [@template](https://github.com/template) tag in HasTokens by [@omnicolor](https://github.com/omnicolor) in https://github.com/laravel/sanctum/pull/550
 
 ## [v4.0.5](https://github.com/laravel/sanctum/compare/v4.0.4...v4.0.5) - 2024-11-26
 
