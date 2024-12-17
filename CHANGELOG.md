@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.6...4.x)
+## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.7...4.x)
+
+## [v4.0.7](https://github.com/laravel/sanctum/compare/v4.0.6...v4.0.7) - 2024-12-11
+
+* [4.x] Add `tokenCant()` helper function to `HasApiTokens` by [@chester-sykes](https://github.com/chester-sykes) in https://github.com/laravel/sanctum/pull/552
 
 ## [v4.0.6](https://github.com/laravel/sanctum/compare/v4.0.5...v4.0.6) - 2024-11-26
 
