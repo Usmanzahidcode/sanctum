@@ -63,6 +63,22 @@ return [
 
     'token_prefix' => env('SANCTUM_TOKEN_PREFIX', ''),
 
+
+    /*
+    |--------------------------------------------------------------------------
+    | Sanctum Token Length
+    |--------------------------------------------------------------------------
+    |
+    | Sanctum uses a defined entropy length for tokens to enhance security.
+    | You can adjust the entropy length of the tokens by setting the value
+    | below. This helps ensure token strength and protection against
+    | unauthorized access.
+    |
+    */
+
+    'entropy_length' => env('SANCTUM_ENTROPY_LENGTH', 40),
+
+
     /*
     |--------------------------------------------------------------------------
     | Sanctum Middleware
