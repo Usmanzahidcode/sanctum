@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.7...4.x)
+## [Unreleased](https://github.com/laravel/sanctum/compare/v4.0.8...4.x)
+
+## [v4.0.8](https://github.com/laravel/sanctum/compare/v4.0.7...v4.0.8) - 2025-01-26
+
+* Supports Laravel 12 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/sanctum/pull/556
 
 ## [v4.0.7](https://github.com/laravel/sanctum/compare/v4.0.6...v4.0.7) - 2024-12-11
 
