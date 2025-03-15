@@ -81,7 +81,7 @@ trait HasApiTokens
         return sprintf(
             '%s%s%s',
             config('sanctum.token_prefix', ''),
-            $tokenEntropy = Str::random(config('sanctum.entropy_length'), 40),
+            $tokenEntropy = Str::random(config('sanctum.entropy_length', 40)),
             hash('crc32b', $tokenEntropy)
         );
     }

@@ -1,16 +1,20 @@
 {
-    "name": "laravel/sanctum",
-    "description": "Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.",
-    "keywords": ["laravel", "sanctum", "auth"],
+    "name": "algobox/sanctum-extended",
+    "description": "A stable and feature-rich extension to Laravel Sanctum, offering enhanced functionality, advanced customization options, and additional tools for seamless token-based authentication management.",
+    "keywords": [
+        "laravel",
+        "sanctum",
+        "auth"
+    ],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel/sanctum/issues",
-        "source": "https://github.com/laravel/sanctum"
+        "issues": "https://github.com/usmanzahidcode/sanctum/issues",
+        "source": "https://github.com/usmanzahidcode/sanctum"
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Usman Zahid",
+            "email": "developerusman@yahoo.com"
         }
     ],
     "require": {
